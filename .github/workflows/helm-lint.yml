@@ -14,6 +14,5 @@ jobs:
 
       - name: Run chart-testing (lint)
         uses: helm/chart-testing-action@v1.0.0-rc.2
-        working-directory: ./test1
         with:
           command: lint
