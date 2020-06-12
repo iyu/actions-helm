@@ -4,3 +4,5 @@ description: A Helm chart for Kubernetes
 name: test1
 version: 0.1.0
 home: http://localhost
+maintainers:
+  name: iyu
